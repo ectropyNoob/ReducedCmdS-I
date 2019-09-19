@@ -1,0 +1,3 @@
+echo PATH=\$PATH:$1 >> /Users/ectropy/.bash_profile
+export PATH=$PATH:$1
+echo now path: $PATH
